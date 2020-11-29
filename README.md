@@ -1,6 +1,8 @@
 # whatappsclone
 
 A new Flutter project.
+this just the whatapps chat Ui
+
 
 ## Getting Started
 
